@@ -1,6 +1,8 @@
-To Do List App
+# To Do List App
 
 An app that allows you to create,update and delete to do lists and set progress bars. Has authorization enabled.
+
+Tech Stack: React, Node, PostgreSQL
 
 ![image](https://github.com/Rellik-7/AuthToDoList-frontend/assets/75270052/50d102dc-984d-43c0-9ac0-95d679fd7a5f)
 
